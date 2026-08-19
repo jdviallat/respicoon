@@ -1,7 +1,7 @@
 {
-  "version": "2.6.1",
+  "version": "2.7.0",
   "url": "https://play.google.com/store/apps/details?id=com.bengacoon.respire",
-  "notes": "6 nouvelles séances (Respiration carrée, Cohérence approfondie, Avant de prendre la parole, Sieste express, Récupération après l'effort, Apaiser une envie), traduites dans les 9 langues. Réglages réorganisés + vérification des mises à jour.",
+  "notes": "Nouvelle version : voix guidée, apaisement express (SOS), bilan de la semaine, sons binauraux, séance sur écran verrouillé et biofeedback de cohérence au doigt.",
   "obligatoire": false,
   "minVersion": "2.0.0"
 }
