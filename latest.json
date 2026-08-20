@@ -1,6 +1,6 @@
 {
   "version": "2.7.0",
-  "url": "https://github.com/jdviallat/respicoon-updates/releases/download/v2.7.0/Respicoon-2.7.0.apk",
+  "url": "https://github.com/jdviallat/respicoon/releases/download/v2.7.0/Respicoon-2.7.0.apk",
   "notes": "Nouvelle version : voix guidée, apaisement express (SOS), bilan de la semaine, sons binauraux, séance sur écran verrouillé et biofeedback de cohérence au doigt.",
   "obligatoire": false,
   "minVersion": "2.0.0"

@@ -1,6 +1,6 @@
 {
   "version": "2.7.0",
-  "url": "https://github.com/jdviallat/respicoon-updates/releases/latest",
+  "url": "https://github.com/jdviallat/respicoon/releases/latest",
   "notes": "Nouvelle version : voix guidée, apaisement express (SOS), bilan de la semaine, sons binauraux, séance sur écran verrouillé et biofeedback de cohérence au doigt.",
   "obligatoire": false,
   "minVersion": "2.0.0"
