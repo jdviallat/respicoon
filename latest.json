@@ -1,7 +1,7 @@
 {
-  "version": "2.7.0",
-  "url": "https://github.com/jdviallat/respicoon/releases/download/v2.7.0/Respicoon-2.7.0.apk",
-  "notes": "Nouvelle version : voix guidée, apaisement express (SOS), bilan de la semaine, sons binauraux, séance sur écran verrouillé et biofeedback de cohérence au doigt.",
+  "version": "2.8.0",
+  "url": "https://github.com/jdviallat/respicoon/releases/download/v2.8.0/Respicoon-2.8.0.apk",
+  "notes": "Nouveau souffle « Colibri », objectif de la semaine, rappel si 2 jours sans séance, tuile « Respirer » (réglages rapides), et mesure de cohérence avant/après la séance.",
   "obligatoire": false,
   "minVersion": "2.0.0"
 }
